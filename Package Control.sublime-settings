@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"React Development Snippets",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Sublimerge 3",
+		"TerminalView",
+		"TodoReview",
+		"Vuejs Complete Package"
+	]
+}
